@@ -1,0 +1,61 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-5660
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=1 insize=1008 outsize=136 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3253 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3251 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3267 outsize=609 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3259 outsize=1187 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3259 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3256 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3268 outsize=609 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3254 outsize=127 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3258 outsize=1057 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3253 outsize=133 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19335 outsize=325 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19342 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19346 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19325 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19341 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19328 outsize=750 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19339 outsize=700 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19335 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19345 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19338 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19345 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19335 outsize=14835 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4698 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4703 outsize=364 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4713 outsize=757 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4708 outsize=363 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
